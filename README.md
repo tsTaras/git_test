@@ -1,0 +1,1 @@
+This is Taras's first git project!
